@@ -1,7 +1,7 @@
 {
  "name": "Training Week DEV",
  "short_name": "TW Dev",
- "id": "./",
+ "id": "/training-week-dev/",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
